@@ -1,0 +1,1 @@
+function manejarAsincronia(callback, promise)
